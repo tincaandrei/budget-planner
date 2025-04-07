@@ -15,5 +15,5 @@ public class Budget {
     private Double totalAmount;
     private List<Expense> expenses;
     private List<Income> incomes;
-
+    
 }
